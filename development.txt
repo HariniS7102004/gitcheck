@@ -1,2 +1,2 @@
 This is development branch
-It is used for development
+It is used for development purpose
